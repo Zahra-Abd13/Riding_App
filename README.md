@@ -110,7 +110,7 @@ internal static async Task<DataTable> QueryAsync(string sql, params SqlParameter
 1. **Clone the repository**
    ```bash
    git clone https://github.com/Zahra-Abd13/Riding_App.git
-   cd RideSharingDB
+   cd RidingAppDB
    ```
 
 2. **Create the database**
