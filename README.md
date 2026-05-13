@@ -8,17 +8,17 @@ A full-featured **desktop application** for managing a riding platform (similar 
 
 > Dashboard → navigate to any module with one click.
 
-| Dashboard
+
 <img width="687" height="591" alt="Screenshot 2026-05-13 035912" src="https://github.com/user-attachments/assets/6c3486ed-9bdb-493c-b318-1e68510732de" />
-| Users Management 
+
 <img width="1915" height="760" alt="image" src="https://github.com/user-attachments/assets/1753cee6-ca94-480f-8560-e8a5dcc05b3f" />
-| Drivers Management 
+
 <img width="1918" height="831" alt="image" src="https://github.com/user-attachments/assets/d998e0f1-9b74-4bdc-9988-0a4f1dcb68aa" />|
-|Rides Management
+
 <img width="1918" height="795" alt="image" src="https://github.com/user-attachments/assets/29f7c40a-b731-4c70-92e5-4c7af25aa4a8" />
-|Reviews Management
+
 <img width="1918" height="647" alt="image" src="https://github.com/user-attachments/assets/6847763b-67a0-48b0-92c9-962acf8d7a53" />
-|Payments Management
+
 <img width="1918" height="635" alt="image" src="https://github.com/user-attachments/assets/cf82c691-1ca4-4fcf-9a7e-749c9d7c555b" />
 
 
