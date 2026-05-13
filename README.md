@@ -117,12 +117,12 @@ internal static async Task<DataTable> QueryAsync(string sql, params SqlParameter
 
    Open SQL Server Management Studio (SSMS), connect to your server, and run:
    ```
-   project/WinFormsApp1/WinFormsApp1/SQLQuery5.sql
+   project/WinFormsApp1/WinFormsApp1/SQLQuery_Phase_2.sql
    ```
 
 3. **Update the connection string**
 
-   Open `project/WinFormsApp1/WinFormsApp1/Database.cs` and update line 5:
+   Open `project/WinFormsApp1/WinFormsApp1/Database.cs` and update line 9:
    ```csharp
    private const string DefaultConnectionString =
        "Data Source=YOUR_SERVER_NAME;Initial Catalog=RideSharingDB;Integrated Security=True;TrustServerCertificate=True;";
@@ -151,7 +151,7 @@ WinFormsApp1/
 ├── RidesForm.cs         # Rides CRUD
 ├── PaymentsForm.cs      # Payments CRUD
 ├── ReviewsForm.cs       # Reviews CRUD
-└── SQLQuery5.sql        # Database creation + seed data script
+└── SQLQuery_Phase_2.sql        # Database creation + seed data script
 ```
 ---
 
