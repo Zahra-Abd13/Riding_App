@@ -1,6 +1,14 @@
-﻿.vs/
+﻿# Visual Studio
+.vs/
 bin/
 obj/
-.dotnet/
 *.user
 *.suo
+*.cache
+
+# Build output
+Debug/
+Release/
+
+# Dotnet
+.dotnet/
